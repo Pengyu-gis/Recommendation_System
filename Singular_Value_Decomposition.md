@@ -17,7 +17,7 @@ $A = U\Sigma V^T$
 
 - $U$ (Left Singular Vectors): The columns of `U` are orthogonal vectors representing the "input" space.
 - $\Sigma$ (Singular Values): The diagonal values of $\Sigma$ are the singular values of `A`, sorted in descending order. They represent the scaling factor for each corresponding vector in `U` and $V^T$.
-- $V^T$ (Right Singular Vectors Transposed)**: The columns of `V` (rows of $V^T$) are orthogonal vectors representing the "output" space.
+- $V^T$ (Right Singular Vectors Transposed): The columns of `V` (rows of $V^T$) are orthogonal vectors representing the "output" space.
 
 ## Mathematical Insights
 
